@@ -42,3 +42,7 @@ body {
     color: white;
  }
  
+ #profile-email {
+   text-align: center;
+   color: coral;
+}
