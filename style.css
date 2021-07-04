@@ -44,5 +44,10 @@ body {
  
  #profile-email {
    text-align: center;
+   color: rgb(43, 54, 214);
+ }
+
+ #profile-job {
+   text-align: center;
    color: coral;
 }
